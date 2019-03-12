@@ -1,0 +1,51 @@
+html, 
+body {
+    height: 100%;
+}
+
+body {
+	background-color: #bbd0e3;
+	background: url("../bg.jpg") no-repeat;
+  	background-size: cover;
+	font-family: 'Quicksand', sans-serif;
+	color: #333333;
+	background-position: bottom;
+}
+
+#about {
+	width: 452px;
+	margin: 50px auto;
+}
+
+h1 {
+	font-size: 50pt;
+	margin: 0;
+	font-weight: lighter;
+}
+
+.name {
+	font-weight: bold;
+}
+
+.tag-line {
+	font-size: 12pt;
+	margin: 0;
+}
+
+.contact {
+	font-style: italic;
+}
+
+.small {
+	font-size: 10pt;
+}
+
+a {
+	font-style: normal;
+	color: inherit;
+}
+
+.contact a {
+	text-decoration: none;
+	font-style: italic !important;
+}
